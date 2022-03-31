@@ -1,11 +1,11 @@
 import React, { Component } from 'react';
 import T from 'prop-types';
-import { Tab, Tabs, TabList, TabPanel } from 'react-tabs'; // eslint-disable-line
+import { TabPanel } from 'ljmui2'; // eslint-disable-line
 import { LiveProvider, LiveEditor, LivePreview, LiveError } from 'react-live';
 import classNames from 'clsx';
 import dracula from 'prism-react-renderer/themes/dracula';
 
-const scope = { Tabs, Tab, TabList, TabPanel };
+const scope = { TabPanel };
 
 export default class ExampleItem extends Component {
   state = {

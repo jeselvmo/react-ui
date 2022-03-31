@@ -8,7 +8,7 @@ import ignore from 'rollup-plugin-ignore';
 const devConfig = {
   input: 'src/index.js',
   output: {
-    file: 'dist/react-tabs.development.js',
+    file: 'dist/ljmui2.development.js',
     format: 'umd',
     name: 'ReactTabs',
     globals: {
@@ -31,7 +31,7 @@ const devConfig = {
 const productionConfig = {
   input: 'src/index.js',
   output: {
-    file: 'dist/react-tabs.production.min.js',
+    file: 'dist/ljmui2.production.min.js',
     format: 'umd',
     name: 'ReactTabs',
     globals: {

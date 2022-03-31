@@ -1,5 +1,5 @@
 {
-  "name": "react-tabs",
+  "name": "ljmui2",
   "version": "0.0.0-development",
   "description": "An accessible and easy tab component for ReactJS",
   "main": "lib/index.js",
@@ -25,12 +25,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/reactjs/react-tabs.git"
+    "url": "https://github.com/reactjs/ljmui2.git"
   },
   "author": "Matt Zabriskie",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/reactjs/react-tabs/issues"
+    "url": "https://github.com/reactjs/ljmui2/issues"
   },
   "files": [
     "dist",
@@ -39,7 +39,7 @@
     "style",
     "src"
   ],
-  "homepage": "https://github.com/reactjs/react-tabs",
+  "homepage": "https://github.com/reactjs/ljmui2",
   "keywords": [
     "react",
     "tabs",

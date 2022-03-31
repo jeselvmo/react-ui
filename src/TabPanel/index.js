@@ -2,7 +2,7 @@ import PropTypes from 'prop-types';
 import React from 'react';
 import cx from 'clsx';
 
-const DEFAULT_CLASS = 'react-tabs__tab-panel';
+const DEFAULT_CLASS = 'ljmui2__tab-panel';
 const defaultProps = {
   className: DEFAULT_CLASS,
   selectedClassName: `${DEFAULT_CLASS}--selected`,

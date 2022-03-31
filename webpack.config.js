@@ -85,7 +85,7 @@ module.exports = {
   },
   resolve: {
     alias: {
-      'react-tabs': path.resolve(__dirname, 'src/index'),
+      'ljmui2': path.resolve(__dirname, 'src/index'),
     },
   },
   plugins,
